@@ -6,3 +6,5 @@
 ## Authors
 
 - [nzhukov](https://github.com/nzhukov)
+
+- [Sukhacheva](https://github.com/Sukhacheva)
